@@ -18,9 +18,9 @@
 	font-family: var(--font-family-system);
 	overflow-y: hidden; 
 	display: flex;
-	width: 37.5rem; 
-	max-width: 37.5rem; 
-	height: 50rem;
+	width: 600px; 
+	max-width: 600px; 
+	height: 800px;
 	border-radius: .5rem;
 	border: 0.0625rem solid var(--IGgrey);
 } 
