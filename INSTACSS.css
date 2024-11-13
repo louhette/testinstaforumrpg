@@ -18,9 +18,9 @@
 	font-family: var(--font-family-system);
 	overflow-y: hidden; 
 	display: flex;
-	width: 28.125rem; 
-	max-width: 28.125rem; 
-	height: 45.9375rem;
+	width: 37.5rem; 
+	max-width: 37.5rem; 
+	height: 50rem;
 	border-radius: .5rem;
 	border: 0.0625rem solid var(--IGgrey);
 } 
@@ -51,8 +51,8 @@
 } 
 
 .HD-img-profil{
-	width: 5rem; 
-	height: 5rem; 
+	width: 10rem; 
+	height: 10rem; 
 	object-fit: cover; 
 	border-radius: 100%;
 	padding: .25rem; 
